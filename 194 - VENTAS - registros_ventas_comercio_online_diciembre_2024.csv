@@ -1,11 +1,11 @@
 Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del Pedido,Marca,Precio Total (ARS),Cantidad de Productos,Descuento Aplicado (%),Cantidad de Pedidos,Monto Pagado (ARS),Tiempo de Envio,Valor del Envio (ARS)
 1/12/2024,Laptop,Transferencia Bancaria,Recurrente,Cordoba,Envio Estandar,Cancelado,Samsung,449598,2,5,5,4368086,5,4829
-1/12/2024,Tablet,Tarjeta de Credito,Nuevo,Tucuman,Recogida en Tienda,Entregado,Xiaomi,104909,3,1,2,583345,2,6524
+1/12/2024,Tablet,,Nuevo,Tucuman,Recogida en Tienda,Entregado,Xiaomi,104909,3,1,2,583345,2,6524
 1/12/2024,Accesorios,Mercado Pago,Nuevo,Cordoba,Envio Express,Entregado,Sony,934866,3,9,10,24793675,2,2431
 1/12/2024,Camara Digital,PayPal,Nuevo,Neuquen,Recogida en Tienda,Entregado,Sony,165242,1,8,8,1170342,2,8284
 1/12/2024,Smartphone,Tarjeta de Credito,Recurrente,Neuquen,Recogida en Tienda,Entregado,Apple,209309,2,5,12,4644290,3,7572
 1/12/2024,Camara Digital,Transferencia Bancaria,Nuevo,Tucuman,Envio Estandar,Enviado,Samsung,255830,4,13,16,15504100,4,7730
-1/12/2024,Smartphone,Transferencia Bancaria,Nuevo,Neuquen,Recogida en Tienda,Cancelado,Xiaomi,857794,4,3,15,46054676,4,6093
+1/12/2024,Smartphone,,Nuevo,Neuquen,Recogida en Tienda,Cancelado,Xiaomi,857794,4,3,15,46054676,4,6093
 1/12/2024,Auriculares,Tarjeta de Credito,Nuevo,Neuquen,Envio Estandar,Cancelado,Xiaomi,419003,3,9,3,3351771,1,1926
 1/12/2024,Laptop,Pago Contra Entrega,Nuevo,Neuquen,Recogida en Tienda,Pendiente,Xiaomi,202700,3,12,14,7492864,2,3217
 1/12/2024,Smartphone,Pago Contra Entrega,Nuevo,Neuquen,Envio Estandar,Entregado,Xiaomi,879578,4,2,14,45406117,1,7253
@@ -28,7 +28,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 1/12/2024,Laptop,Tarjeta de Credito,Recurrente,Cordoba,Envio Estandar,Entregado,Sony,259610,3,7,7,4955291,6,4929
 1/12/2024,Camara Digital,Transferencia Bancaria,Recurrente,Cordoba,Envio Express,Cancelado,Samsung,303956,2,6,5,2714195,2,8394
 1/12/2024,Smartphone,Transferencia Bancaria,Nuevo,CABA,Recogida en Tienda,Entregado,LG,752889,4,14,10,29627329,2,3019
-1/12/2024,Accesorios,Mercado Pago,Recurrente,Neuquen,Recogida en Tienda,Pendiente,Sony,476604,1,7,8,3390544,3,1290
+1/12/2024,Accesorios,,Recurrente,Neuquen,Recogida en Tienda,Pendiente,Sony,476604,1,7,8,3390544,3,1290
 1/12/2024,Auriculares,Mercado Pago,Recurrente,Santa Fe,Envio Estandar,Pendiente,Huawei,969671,4,3,18,59785732,4,4365
 1/12/2024,Reloj Inteligente,Tarjeta de Credito,Nuevo,Tucuman,Recogida en Tienda,Pendiente,Lenovo,266395,3,11,2,1382405,1,3070
 1/12/2024,Auriculares,Tarjeta de Credito,Recurrente,Neuquen,Recogida en Tienda,Entregado,Apple,495120,2,13,16,14585289,4,5748
@@ -292,7 +292,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 4/12/2024,Camara Digital,Transferencia Bancaria,Recurrente,La Rioja,Recogida en Tienda,Entregado,Huawei,184482,4,8,18,13149013,4,1593
 4/12/2024,Tablet,Pago Contra Entrega,Nuevo,La Rioja,Envio Estandar,Pendiente,Lenovo,736252,1,13,2,1288435,5,4330
 4/12/2024,Smartphone,Tarjeta de Credito,Nuevo,Tucuman,Envio Estandar,Pendiente,Apple,472924,4,14,11,18548039,3,8902
-4/12/2024,Camara Digital,Tarjeta de Credito,Nuevo,Tucuman,Envio Estandar,Enviado,Sony,688882,3,6,10,18761584,6,4635
+4/12/2024,Camara Digital,,Nuevo,Tucuman,Envio Estandar,Enviado,Sony,688882,3,6,10,18761584,6,4635
 4/12/2024,Accesorios,Pago Contra Entrega,Recurrente,Mendoza,Envio Estandar,Pendiente,LG,944588,2,4,13,23511722,4,8968
 4/12/2024,Reloj Inteligente,Tarjeta de Credito,Recurrente,San Luis,Envio Estandar,Pendiente,Samsung,287275,4,6,15,16227155,4,3249
 4/12/2024,Camara Digital,Mercado Pago,Nuevo,San Luis,Envio Estandar,Pendiente,Huawei,642819,3,1,12,21364095,3,8673
@@ -321,7 +321,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 5/12/2024,Camara Digital,Pago Contra Entrega,Recurrente,Tucuman,Recogida en Tienda,Entregado,Sony,241091,4,13,4,3531393,6,9772
 5/12/2024,Laptop,Mercado Pago,Nuevo,CABA,Envio Express,Pendiente,LG,684753,1,13,8,5239632,5,2606
 5/12/2024,Tablet,Pago Contra Entrega,Recurrente,Neuquen,Recogida en Tienda,Entregado,LG,567380,2,9,2,2176435,4,2824
-5/12/2024,Tablet,Transferencia Bancaria,Nuevo,Tucuman,Envio Express,Cancelado,LG,671742,3,8,8,15442129,5,6208
+5/12/2024,Tablet,,Nuevo,Tucuman,Envio Express,Cancelado,LG,671742,3,8,8,15442129,5,6208
 5/12/2024,Smartphone,Mercado Pago,Nuevo,Neuquen,Envio Express,Enviado,Samsung,608713,4,3,15,31160904,2,3567
 5/12/2024,Tablet,PayPal,Recurrente,Santa Fe,Envio Estandar,Entregado,LG,833928,2,2,8,12654823,5,7466
 5/12/2024,Accesorios,PayPal,Recurrente,Tucuman,Recogida en Tienda,Enviado,Samsung,354450,2,10,3,1961095,4,7017
@@ -351,7 +351,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 5/12/2024,Auriculares,PayPal,Nuevo,Corrientes,Envio Express,Enviado,Samsung,356671,3,11,18,18874506,1,1279
 5/12/2024,Camara Digital,Transferencia Bancaria,Nuevo,CABA,Recogida en Tienda,Entregado,Motorola,213551,4,12,1,727908,5,2754
 5/12/2024,Smartphone,Mercado Pago,Nuevo,Corrientes,Recogida en Tienda,Pendiente,Apple,939909,2,2,17,29934460,6,6954
-5/12/2024,Reloj Inteligente,Tarjeta de Credito,Recurrente,Buenos Aires,Envio Express,Pendiente,Motorola,496055,4,1,5,9812821,3,9941
+5/12/2024,Reloj Inteligente,,Recurrente,Buenos Aires,Envio Express,Pendiente,Motorola,496055,4,1,5,9812821,3,9941
 5/12/2024,Camara Digital,Tarjeta de Credito,Recurrente,Santa Cruz,,Entregado,Apple,920057,3,8,9,23697818,1,9776
 5/12/2024,Accesorios,Tarjeta de Credito,Nuevo,Rio Negro,Recogida en Tienda,Pendiente,Lenovo,633525,3,8,9,14904468,1,7100
 5/12/2024,Camara Digital,Pago Contra Entrega,Recurrente,San Luis,Recogida en Tienda,Cancelado,Samsung,200801,1,4,19,3407964,5,6933
@@ -378,7 +378,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 5/12/2024,Accesorios,Tarjeta de Credito,Nuevo,Chaco,Envio Estandar,Cancelado,Sony,158417,4,12,6,3334562,3,6812
 5/12/2024,Auriculares,PayPal,Nuevo,La Rioja,Envio Estandar,Pendiente,Xiaomi,692434,1,2,11,6661358,6,5136
 5/12/2024,Smartphone,Pago Contra Entrega,Recurrente,Neuquen,Recogida en Tienda,Entregado,Lenovo,232037,4,13,13,11599259,6,4182
-5/12/2024,Camara Digital,Transferencia Bancaria,Nuevo,Rio Negro,Recogida en Tienda,Enviado,Apple,830670,2,4,7,11420115,1,1032
+5/12/2024,Camara Digital,,Nuevo,Rio Negro,Recogida en Tienda,Enviado,Apple,830670,2,4,7,11420115,1,1032
 5/12/2024,Reloj Inteligente,PayPal,Recurrente,Catamarca,Envio Express,Entregado,Samsung,932473,2,1,17,27876502,1,1498
 5/12/2024,Reloj Inteligente,Transferencia Bancaria,Nuevo,Santa Cruz,Envio Estandar,Enviado,LG,168481,4,5,13,8484471,4,3950
 5/12/2024,Laptop,Transferencia Bancaria,Recurrente,Neuquen,Recogida en Tienda,Enviado,Sony,691193,4,10,15,35745584,1,8437
@@ -409,7 +409,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 6/12/2024,Smartphone,Transferencia Bancaria,Recurrente,Neuquen,Envio Estandar,Entregado,Lenovo,175942,1,9,6,941446,1,5857
 6/12/2024,Tablet,Tarjeta de Credito,Nuevo,Mendoza,Recogida en Tienda,Pendiente,Lenovo,643902,4,14,18,43167081,3,6050
 6/12/2024,Reloj Inteligente,Pago Contra Entrega,Recurrente,CABA,Recogida en Tienda,Cancelado,Huawei,126376,2,11,10,2490450,2,6498
-6/12/2024,Reloj Inteligente,Mercado Pago,Recurrente,Cordoba,Envio Estandar,Entregado,Samsung,648646,1,2,16,9633257,2,2467
+6/12/2024,Reloj Inteligente,,Recurrente,Cordoba,Envio Estandar,Entregado,Samsung,648646,1,2,16,9633257,2,2467
 6/12/2024,Laptop,Mercado Pago,Nuevo,CABA,Envio Estandar,Entregado,Samsung,929038,1,4,8,7104494,4,1698
 6/12/2024,Smartphone,Mercado Pago,Nuevo,Buenos Aires,Recogida en Tienda,Pendiente,Apple,197008,2,15,1,359491,5,2903
 6/12/2024,Auriculares,Tarjeta de Credito,Nuevo,Mendoza,Envio Estandar,Entregado,Lenovo,303731,2,13,9,4882268,2,9523
@@ -455,7 +455,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 6/12/2024,Laptop,Transferencia Bancaria,Recurrente,Chaco,Envio Estandar,Enviado,Lenovo,230558,2,3,6,2391337,4,9768
 6/12/2024,Reloj Inteligente,Tarjeta de Credito,Nuevo,Formosa,Envio Express,Entregado,Sony,998835,4,7,10,34915150,5,9269
 6/12/2024,Camara Digital,,Nuevo,Salta,Envio Estandar,Cancelado,Samsung,885158,2,13,20,34090710,1,8796
-6/12/2024,Reloj Inteligente,Tarjeta de Credito,Nuevo,La Rioja,Recogida en Tienda,Cancelado,Apple,677369,4,1,18,42311956,3,6704
+6/12/2024,Reloj Inteligente,,Nuevo,La Rioja,Recogida en Tienda,Cancelado,Apple,677369,4,1,18,42311956,3,6704
 6/12/2024,Laptop,PayPal,Recurrente,Catamarca,Recogida en Tienda,Enviado,Samsung,159823,2,11,5,1367718,3,1223
 6/12/2024,Reloj Inteligente,Pago Contra Entrega,Nuevo,Buenos Aires,Envio Estandar,Enviado,Sony,615652,3,4,10,15990802,5,8492
 6/12/2024,Accesorios,Tarjeta de Credito,Recurrente,Mendoza,Envio Estandar,Enviado,Sony,426218,4,4,14,23048424,2,4661
@@ -485,7 +485,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 7/12/2024,Smartphone,Mercado Pago,Recurrente,Mendoza,Recogida en Tienda,Pendiente,LG,460006,4,13,10,16806165,5,7337
 7/12/2024,Smartphone,Mercado Pago,Recurrente,CABA,Recogida en Tienda,Enviado,Samsung,672712,1,9,10,5728918,6,6972
 7/12/2024,Accesorios,Mercado Pago,Nuevo,Tucuman,Recogida en Tienda,Cancelado,Lenovo,377048,3,4,14,15350340,2,4493
-7/12/2024,Tablet,Transferencia Bancaria,Nuevo,Tucuman,Envio Express,Entregado,Huawei,928924,2,1,3,5029155,6,3457
+7/12/2024,Tablet,,Nuevo,Tucuman,Envio Express,Entregado,Huawei,928924,2,1,3,5029155,6,3457
 7/12/2024,Laptop,Transferencia Bancaria,Recurrente,Neuquen,Envio Estandar,Pendiente,Samsung,305412,1,14,2,569340,4,1868
 7/12/2024,Accesorios,PayPal,Recurrente,Buenos Aires,Recogida en Tienda,Entregado,Xiaomi,216671,4,3,3,2359230,2,1689
 7/12/2024,Tablet,Mercado Pago,Nuevo,CABA,Recogida en Tienda,Pendiente,Lenovo,533886,2,13,18,18391581,5,5193
@@ -508,7 +508,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 7/12/2024,Reloj Inteligente,Transferencia Bancaria,Nuevo,Buenos Aires,Recogida en Tienda,Cancelado,LG,729908,4,9,20,53097361,5,9020
 7/12/2024,Laptop,Mercado Pago,Recurrente,CABA,Envio Express,Enviado,Samsung,145324,1,14,16,2092991,6,8225
 7/12/2024,Auriculares,PayPal,Nuevo,Santa Fe,Envio Express,Cancelado,Xiaomi,280550,4,10,2,1979179,3,5830
-7/12/2024,Camara Digital,Transferencia Bancaria,Nuevo,Santa Fe,Envio Estandar,Cancelado,LG,812328,3,8,6,12575152,3,3508
+7/12/2024,Camara Digital,,Nuevo,Santa Fe,Envio Estandar,Cancelado,LG,812328,3,8,6,12575152,3,3508
 7/12/2024,Accesorios,Transferencia Bancaria,Recurrente,Cordoba,Envio Estandar,Enviado,LG,188528,2,13,20,6789488,5,4579
 7/12/2024,Laptop,Mercado Pago,Recurrente,Tierra del Fuego,Recogida en Tienda,Entregado,Apple,968372,3,2,16,40167680,6,8046
 7/12/2024,Reloj Inteligente,Tarjeta de Credito,Nuevo,CABA,Recogida en Tienda,Entregado,Apple,389643,3,8,13,13866607,1,5578
@@ -530,7 +530,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 7/12/2024,Accesorios,Pago Contra Entrega,Nuevo,La Rioja,Envio Express,Cancelado,Huawei,511067,1,6,16,7137382,1,3772
 7/12/2024,Reloj Inteligente,Tarjeta de Credito,Nuevo,CABA,Envio Express,Cancelado,Xiaomi,888910,2,11,4,6497927,5,5773
 7/12/2024,Accesorios,Transferencia Bancaria,Nuevo,San Juan,Envio Express,Pendiente,Samsung,671485,1,7,15,9363131,6,1383
-7/12/2024,Auriculares,Mercado Pago,Recurrente,Jujuy,Envio Express,Enviado,Sony,528504,2,10,3,3038869,3,8677
+7/12/2024,Auriculares,,Recurrente,Jujuy,Envio Express,Enviado,Sony,528504,2,10,3,3038869,3,8677
 7/12/2024,Camara Digital,Transferencia Bancaria,Recurrente,San Luis,Envio Estandar,Cancelado,Sony,998648,3,11,3,8244002,6,1636
 7/12/2024,Laptop,Tarjeta de Credito,Recurrente,Salta,Envio Express,Enviado,Motorola,486944,2,13,11,9261129,4,5603
 7/12/2024,Laptop,Transferencia Bancaria,Nuevo,La Rioja,Envio Express,Enviado,Sony,466306,2,14,10,8018143,2,5900
@@ -549,7 +549,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 8/12/2024,Accesorios,Mercado Pago,Recurrente,Cordoba,Envio Estandar,Enviado,Samsung,146774,3,13,8,3393530,5,3728
 8/12/2024,Reloj Inteligente,PayPal,Nuevo,Santa Fe,Recogida en Tienda,Pendiente,Xiaomi,239866,2,4,6,2796725,6,1020
 8/12/2024,Reloj Inteligente,Tarjeta de Credito,Recurrente,Tucuman,Envio Express,Pendiente,Lenovo,834111,4,12,4,11586271,5,8511
-8/12/2024,Smartphone,Tarjeta de Credito,Recurrente,Neuquen,Envio Estandar,Enviado,Lenovo,568062,1,11,9,4883940,1,6493
+8/12/2024,Smartphone,,Recurrente,Neuquen,Envio Estandar,Enviado,Lenovo,568062,1,11,9,4883940,1,6493
 8/12/2024,Tablet,Tarjeta de Credito,Nuevo,Buenos Aires,Envio Estandar,Cancelado,Huawei,833950,2,5,16,25317603,4,9041
 8/12/2024,Reloj Inteligente,PayPal,Nuevo,CABA,Envio Estandar,Enviado,Samsung,662922,3,1,16,30182479,6,2282
 8/12/2024,Smartphone,Mercado Pago,Recurrente,Neuquen,Envio Estandar,Enviado,Xiaomi,267760,4,10,15,15502121,5,7189
@@ -590,7 +590,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 8/12/2024,Smartphone,Mercado Pago,Recurrente,CABA,Envio Estandar,Cancelado,Samsung,612645,1,13,7,4092524,5,1662
 8/12/2024,Smartphone,Mercado Pago,Recurrente,Rio Negro,Envio Express,Entregado,Lenovo,912685,2,,10,15670676,4,7045
 8/12/2024,Reloj Inteligente,Mercado Pago,Recurrente,CABA,Recogida en Tienda,Pendiente,Lenovo,640409,1,15,9,5122647,5,6465
-8/12/2024,Reloj Inteligente,Tarjeta de Credito,Nuevo,CABA,Recogida en Tienda,Entregado,Samsung,196629,2,12,5,1798536,1,8065
+8/12/2024,Reloj Inteligente,,Nuevo,CABA,Recogida en Tienda,Entregado,Samsung,196629,2,12,5,1798536,1,8065
 8/12/2024,Accesorios,Transferencia Bancaria,Nuevo,Tierra del Fuego,Recogida en Tienda,Enviado,Lenovo,572252,4,12,7,15430782,3,9822
 8/12/2024,Laptop,Pago Contra Entrega,Nuevo,San Luis,Envio Estandar,Entregado,Samsung,735661,1,4,11,7077793,5,2566
 8/12/2024,Camara Digital,Transferencia Bancaria,Recurrente,Catamarca,Recogida en Tienda,Cancelado,LG,118082,4,5,11,4835913,1,7494
@@ -616,7 +616,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 8/12/2024,Laptop,Mercado Pago,Nuevo,San Luis,Recogida en Tienda,Enviado,Huawei,960493,1,1,6,5660502,6,7904
 8/12/2024,Laptop,Transferencia Bancaria,Nuevo,Tierra del Fuego,Recogida en Tienda,Entregado,Xiaomi,973462,1,10,19,16620147,2,6070
 8/12/2024,Auriculares,Mercado Pago,Recurrente,Buenos Aires,Recogida en Tienda,Enviado,Apple,341341,4,13,19,22166720,2,8513
-8/12/2024,Smartphone,Pago Contra Entrega,Recurrente,Santa Cruz,Recogida en Tienda,Pendiente,Huawei,128029,2,7,9,2023937,5,2452
+8/12/2024,Smartphone,,Recurrente,Santa Cruz,Recogida en Tienda,Pendiente,Huawei,128029,2,7,9,2023937,5,2452
 8/12/2024,Tablet,Mercado Pago,Recurrente,Salta,Recogida en Tienda,Enviado,Sony,295183,2,3,3,1540618,5,6750
 8/12/2024,Reloj Inteligente,Transferencia Bancaria,Nuevo,Catamarca,Envio Estandar,Enviado,Motorola,509809,3,8,9,12797721,5,6919
 8/12/2024,Laptop,PayPal,Recurrente,Santa Fe,Envio Estandar,Enviado,Xiaomi,891675,1,3,7,6116770,2,4432
@@ -640,7 +640,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 9/12/2024,Smartphone,Pago Contra Entrega,Recurrente,Neuquen,Envio Express,Pendiente,Huawei,118334,1,6,2,207949,2,5573
 9/12/2024,Camara Digital,Tarjeta de Credito,Nuevo,Buenos Aires,Envio Express,Enviado,Xiaomi,466586,1,12,14,5812639,5,5278
 9/12/2024,Laptop,Tarjeta de Credito,Recurrente,Neuquen,Envio Estandar,Entregado,Apple,140643,3,5,1,365714,2,7093
-9/12/2024,Tablet,Mercado Pago,Recurrente,Neuquen,Envio Express,Enviado,Xiaomi,909660,3,4,15,35779537,5,5602
+9/12/2024,Tablet,,Recurrente,Neuquen,Envio Express,Enviado,Xiaomi,909660,3,4,15,35779537,5,5602
 9/12/2024,Auriculares,PayPal,Nuevo,Neuquen,Envio Express,Entregado,Xiaomi,609481,4,9,5,11577631,5,6819
 9/12/2024,Laptop,Pago Contra Entrega,Nuevo,Tucuman,Recogida en Tienda,Cancelado,Huawei,526003,4,1,4,7293820,2,8736
 9/12/2024,Laptop,Tarjeta de Credito,Recurrente,CABA,Recogida en Tienda,Entregado,Xiaomi,817470,1,4,16,11170589,6,3013
@@ -664,7 +664,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 9/12/2024,Smartphone,Mercado Pago,Nuevo,La Rioja,Envio Express,Cancelado,Huawei,135033,3,1,14,4946245,1,3542
 9/12/2024,Tablet,Transferencia Bancaria,Recurrente,San Luis,Envio Express,Enviado,Xiaomi,170382,2,5,12,3674166,2,4436
 9/12/2024,Accesorios,Transferencia Bancaria,Nuevo,Santa Fe,Envio Express,Enviado,Sony,924174,1,14,16,14443290,2,6979
-9/12/2024,Auriculares,PayPal,Nuevo,Misiones,Recogida en Tienda,Enviado,Samsung,594639,1,15,13,6888864,2,9982
+9/12/2024,Auriculares,,Nuevo,Misiones,Recogida en Tienda,Enviado,Samsung,594639,1,15,13,6888864,2,9982
 9/12/2024,Smartphone,Tarjeta de Credito,Recurrente,San Luis,Recogida en Tienda,Enviado,Sony,277045,2,15,1,497499,6,7642
 9/12/2024,Laptop,Mercado Pago,Nuevo,Tierra del Fuego,Envio Estandar,Enviado,Huawei,451829,3,7,11,12829375,3,2474
 9/12/2024,Laptop,Transferencia Bancaria,Nuevo,Salta,Envio Estandar,Enviado,LG,336743,4,13,2,2381368,2,1827
@@ -690,7 +690,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 9/12/2024,Reloj Inteligente,Tarjeta de Credito,Nuevo,Neuquen,Envio Estandar,Cancelado,LG,646571,1,7,7,3952008,1,4202
 9/12/2024,Auriculares,Transferencia Bancaria,Recurrente,La Rioja,Envio Express,Pendiente,Huawei,415598,3,11,3,3258795,4,8169
 9/12/2024,Accesorios,Tarjeta de Credito,Nuevo,Neuquen,Recogida en Tienda,Entregado,Sony,804321,4,8,5,15596904,4,8333
-9/12/2024,Reloj Inteligente,Tarjeta de Credito,Nuevo,Mendoza,Recogida en Tienda,Enviado,Huawei,577210,4,11,1,2117442,1,3677
+9/12/2024,Reloj Inteligente,,Nuevo,Mendoza,Recogida en Tienda,Enviado,Huawei,577210,4,11,1,2117442,1,3677
 9/12/2024,Reloj Inteligente,Tarjeta de Credito,Nuevo,Mendoza,Envio Express,Cancelado,Lenovo,773862,2,5,18,24436090,4,4467
 9/12/2024,Auriculares,Transferencia Bancaria,Recurrente,Catamarca,Envio Estandar,Enviado,LG,880337,2,14,6,9046646,3,9575
 9/12/2024,Camara Digital,Mercado Pago,Nuevo,La Rioja,Envio Express,Cancelado,Xiaomi,293168,3,3,8,6304018,4,1802
@@ -714,7 +714,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 9/12/2024,Reloj Inteligente,Transferencia Bancaria,Nuevo,Mendoza,Recogida en Tienda,Enviado,Sony,211120,2,14,15,5417355,3,6982
 9/12/2024,Accesorios,Tarjeta de Credito,Recurrente,San Luis,Recogida en Tienda,Pendiente,Sony,610236,3,15,10,16860112,2,4443
 9/12/2024,Accesorios,Pago Contra Entrega,Recurrente,San Juan,Recogida en Tienda,Pendiente,Apple,546775,2,11,4,3855740,4,2415
-9/12/2024,Laptop,Transferencia Bancaria,Nuevo,Formosa,Envio Estandar,Enviado,Apple,193233,4,3,2,1526368,1,5304
+9/12/2024,Laptop,,Nuevo,Formosa,Envio Estandar,Enviado,Apple,193233,4,3,2,1526368,1,5304
 10/12/2024,Reloj Inteligente,Pago Contra Entrega,Recurrente,Santa Fe,Recogida en Tienda,Enviado,LG,683540,1,4,10,6308571,5,8574
 10/12/2024,Tablet,Transferencia Bancaria,Nuevo,CABA,Envio Estandar,Pendiente,Samsung,529343,3,3,14,21720632,2,3857
 10/12/2024,Laptop,Tarjeta de Credito,Nuevo,Mendoza,Recogida en Tienda,Pendiente,Samsung,757508,4,8,14,41478944,4,7486
@@ -737,7 +737,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 10/12/2024,Accesorios,Pago Contra Entrega,Nuevo,Mendoza,Envio Estandar,Enviado,Huawei,398033,4,14,11,16281164,2,1805
 10/12/2024,Smartphone,PayPal,Nuevo,Mendoza,Envio Estandar,Cancelado,Sony,656802,1,7,17,10264304,1,6071
 10/12/2024,Camara Digital,Pago Contra Entrega,Recurrente,Buenos Aires,Envio Estandar,Pendiente,Xiaomi,385891,4,5,10,15101134,1,2897
-10/12/2024,Reloj Inteligente,Mercado Pago,Nuevo,Santa Fe,Envio Estandar,Pendiente,Xiaomi,894684,4,11,13,43990464,1,8468
+10/12/2024,Reloj Inteligente,,Nuevo,Santa Fe,Envio Estandar,Pendiente,Xiaomi,894684,4,11,13,43990464,1,8468
 10/12/2024,Reloj Inteligente,Tarjeta de Credito,Recurrente,Santa Fe,Envio Estandar,Cancelado,Sony,198358,1,13,18,3521219,2,6873
 10/12/2024,Accesorios,Mercado Pago,Recurrente,Neuquen,Recogida en Tienda,Cancelado,Samsung,474533,1,12,16,6815466,4,5495
 10/12/2024,Camara Digital,Transferencia Bancaria,Nuevo,Tucuman,Envio Express,Pendiente,Lenovo,586803,4,4,10,23162935,2,9436
@@ -765,7 +765,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 10/12/2024,Camara Digital,PayPal,Recurrente,Formosa,Recogida en Tienda,Pendiente,Samsung,851833,4,6,7,20911625,5,2444
 10/12/2024,Accesorios,Transferencia Bancaria,Recurrente,San Luis,Envio Estandar,Cancelado,Samsung,517024,1,12,4,1909009,1,5175
 10/12/2024,Laptop,Mercado Pago,Recurrente,Cordoba,Envio Estandar,Pendiente,Xiaomi,499572,2,6,10,9142307,3,2362
-10/12/2024,Auriculares,PayPal,Nuevo,Tierra del Fuego,Envio Express,Pendiente,Samsung,272041,3,9,8,5567960,5,3235
+10/12/2024,Auriculares,,Nuevo,Tierra del Fuego,Envio Express,Pendiente,Samsung,272041,3,9,8,5567960,5,3235
 10/12/2024,Accesorios,Transferencia Bancaria,Nuevo,Jujuy,Envio Express,Cancelado,Apple,464206,2,4,4,3306195,3,2607
 10/12/2024,Laptop,Mercado Pago,Nuevo,Cordoba,Recogida en Tienda,Cancelado,Xiaomi,522533,2,14,14,14395640,4,3200
 10/12/2024,Camara Digital,Tarjeta de Credito,Recurrente,Catamarca,Envio Express,Cancelado,Samsung,625304,1,5,10,5662122,2,4834
@@ -786,7 +786,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 10/12/2024,Laptop,Tarjeta de Credito,Nuevo,Neuquen,Envio Estandar,Enviado,Lenovo,496744,4,14,12,23262696,3,4802
 10/12/2024,Smartphone,Tarjeta de Credito,Recurrente,Misiones,Envio Express,Cancelado,LG,809895,4,3,9,28615637,2,6753
 10/12/2024,Auriculares,Transferencia Bancaria,Nuevo,Jujuy,Envio Estandar,Cancelado,Samsung,603269,4,6,13,30239325,4,4499
-10/12/2024,Accesorios,Transferencia Bancaria,Recurrente,Tucuman,Envio Estandar,Cancelado,Samsung,672954,4,7,5,12640142,3,6424
+10/12/2024,Accesorios,,Recurrente,Tucuman,Envio Estandar,Cancelado,Samsung,672954,4,7,5,12640142,3,6424
 10/12/2024,Reloj Inteligente,Tarjeta de Credito,Nuevo,Mendoza,Recogida en Tienda,Pendiente,Motorola,414620,1,10,20,7469114,4,7803
 10/12/2024,Smartphone,Mercado Pago,Recurrente,Formosa,Envio Estandar,Entregado,Apple,213910,3,10,12,7296497,5,1399
 10/12/2024,Accesorios,Transferencia Bancaria,Recurrente,La Rioja,Envio Estandar,Cancelado,Lenovo,870668,3,9,15,33839529,5,4211
@@ -1679,7 +1679,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 21/12/2024,Camara Digital,Tarjeta de Credito,Recurrente,Mendoza,Envio Express,Entregado,Sony,530218,1,14,4,2057926,1,8767
 21/12/2024,Smartphone,Transferencia Bancaria,Nuevo,Buenos Aires,Recogida en Tienda,Enviado,Huawei,462569,1,1,11,4677007,3,5276
 21/12/2024,Smartphone,Pago Contra Entrega,Nuevo,San Juan,Envio Express,Cancelado,Sony,819628,1,12,4,3057692,2,8419
-21/12/2024,Accesorios,PayPal,Recurrente,Santa Fe,Envio Express,Cancelado,Motorola,426198,3,15,2,2489001,6,9492
+21/12/2024,Accesorios,,Recurrente,Santa Fe,Envio Express,Cancelado,Motorola,426198,3,15,2,2489001,6,9492
 21/12/2024,Reloj Inteligente,Tarjeta de Credito,Nuevo,Catamarca,Recogida en Tienda,Cancelado,Huawei,448172,3,14,7,8502994,3,5214
 21/12/2024,Auriculares,Mercado Pago,Nuevo,Neuquen,Envio Estandar,Pendiente,Samsung,964529,1,1,5,4222129,4,1460
 21/12/2024,Laptop,Transferencia Bancaria,Nuevo,Tucuman,Envio Express,Enviado,Motorola,981877,3,1,17,49417352,1,6332
@@ -1689,12 +1689,12 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 21/12/2024,Smartphone,Mercado Pago,Nuevo,Mendoza,Envio Estandar,Enviado,LG,245008,3,2,13,8811605,2,4709
 21/12/2024,Laptop,Transferencia Bancaria,Nuevo,Misiones,Recogida en Tienda,Enviado,Apple,354671,1,10,13,4399638,2,5907
 21/12/2024,Camara Digital,Mercado Pago,Recurrente,Jujuy,Envio Estandar,Enviado,Samsung,259383,2,7,2,1002457,5,9685
-21/12/2024,Camara Digital,Pago Contra Entrega,Recurrente,San Juan,Envio Express,Enviado,Xiaomi,629751,3,8,6,10196709,5,9711
+21/12/2024,Camara Digital,,Recurrente,San Juan,Envio Express,Enviado,Xiaomi,629751,3,8,6,10196709,5,9711
 22/12/2024,Camara Digital,Tarjeta de Credito,Nuevo,Santa Fe,Envio Express,Pendiente,Sony,157520,3,15,12,5092518,5,9367
 22/12/2024,Accesorios,Mercado Pago,Recurrente,Cordoba,Envio Estandar,Entregado,LG,678924,2,5,14,18554183,4,1038
 22/12/2024,Smartphone,PayPal,Recurrente,CABA,Recogida en Tienda,Enviado,Sony,430125,2,2,9,7103209,1,7336
 22/12/2024,Laptop,PayPal,Nuevo,Cordoba,Envio Express,Pendiente,Sony,736517,1,4,15,10708635,4,1745
-22/12/2024,Accesorios,PayPal,Nuevo,Neuquen,Envio Express,Entregado,Huawei,688028,2,3,16,18901296,5,9775
+22/12/2024,Accesorios,,Nuevo,Neuquen,Envio Express,Entregado,Huawei,688028,2,3,16,18901296,5,9775
 22/12/2024,Auriculares,PayPal,Recurrente,Cordoba,Envio Express,Entregado,Samsung,564294,1,11,9,4673956,6,5084
 22/12/2024,Reloj Inteligente,Mercado Pago,Recurrente,Santa Fe,Envio Estandar,Pendiente,Apple,640704,1,1,6,3741000,1,4432
 22/12/2024,Tablet,PayPal,Nuevo,Santa Fe,Recogida en Tienda,Entregado,Huawei,241742,1,14,4,909331,6,4606
@@ -1724,7 +1724,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 22/12/2024,Auriculares,Tarjeta de Credito,Nuevo,Mendoza,Recogida en Tienda,Cancelado,Lenovo,541824,2,2,11,11616306,5,7063
 22/12/2024,Reloj Inteligente,Tarjeta de Credito,Nuevo,Neuquen,Envio Express,Cancelado,Samsung,951808,3,4,5,12349886,2,7113
 22/12/2024,Accesorios,Transferencia Bancaria,Recurrente,Neuquen,Envio Express,Entregado,Huawei,456341,1,5,18,8032313,1,7398
-22/12/2024,Camara Digital,Pago Contra Entrega,Nuevo,San Juan,Envio Estandar,Pendiente,Xiaomi,583731,3,4,9,14096470,4,1070
+22/12/2024,Camara Digital,,Nuevo,San Juan,Envio Estandar,Pendiente,Xiaomi,583731,3,4,9,14096470,4,1070
 22/12/2024,Tablet,Mercado Pago,Recurrente,Jujuy,Envio Express,Enviado,Lenovo,774541,1,3,17,12657866,3,4997
 22/12/2024,Laptop,PayPal,Nuevo,Misiones,Envio Express,Enviado,Xiaomi,628336,2,2,11,12871306,1,6284
 22/12/2024,Tablet,Mercado Pago,Nuevo,Rio Negro,Recogida en Tienda,Cancelado,Lenovo,566864,1,4,19,10381866,4,1250
@@ -1793,7 +1793,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 23/12/2024,Auriculares,Pago Contra Entrega,Nuevo,Neuquen,Envio Express,Entregado,Apple,312565,4,1,15,17157292,2,1352
 23/12/2024,Laptop,Transferencia Bancaria,Recurrente,Cordoba,Envio Express,Entregado,LG,581925,1,10,18,9301349,4,8820
 23/12/2024,Camara Digital,Transferencia Bancaria,Recurrente,Santa Fe,Envio Estandar,Enviado,Sony,289989,4,6,19,19080307,3,4308
-23/12/2024,Auriculares,Transferencia Bancaria,Nuevo,CABA,Envio Estandar,Pendiente,LG,780046,4,15,10,27218553,3,2165
+23/12/2024,Auriculares,,Nuevo,CABA,Envio Estandar,Pendiente,LG,780046,4,15,10,27218553,3,2165
 23/12/2024,Laptop,Transferencia Bancaria,Recurrente,Neuquen,Envio Express,Cancelado,Lenovo,102842,1,11,2,200951,6,3457
 23/12/2024,Auriculares,PayPal,Recurrente,Tucuman,Envio Express,Enviado,Lenovo,320165,4,11,5,5644357,4,3048
 23/12/2024,Smartphone,Transferencia Bancaria,Nuevo,Cordoba,Recogida en Tienda,Pendiente,Lenovo,864401,2,14,14,22817353,6,3899
@@ -1803,13 +1803,13 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 23/12/2024,Tablet,Pago Contra Entrega,Nuevo,Santa Fe,Recogida en Tienda,Pendiente,Lenovo,699816,1,14,18,11423945,5,9670
 23/12/2024,Accesorios,Mercado Pago,Recurrente,Mendoza,Recogida en Tienda,Pendiente,Huawei,906910,2,2,13,22268636,6,9380
 23/12/2024,Camara Digital,PayPal,Nuevo,Mendoza,Envio Estandar,Pendiente,Samsung,628611,3,5,14,23682200,4,6695
-23/12/2024,Tablet,Transferencia Bancaria,Recurrente,Formosa,Envio Express,Pendiente,LG,676526,2,4,2,2318185,2,8256
+23/12/2024,Tablet,,Recurrente,Formosa,Envio Express,Pendiente,LG,676526,2,4,2,2318185,2,8256
 23/12/2024,Accesorios,Tarjeta de Credito,Recurrente,La Rioja,Recogida en Tienda,Entregado,Motorola,621565,1,5,7,4248311,1,1111
 23/12/2024,Tablet,Pago Contra Entrega,Recurrente,San Juan,Recogida en Tienda,Entregado,Apple,602062,3,4,9,14872673,5,7772
 23/12/2024,Reloj Inteligente,Tarjeta de Credito,Nuevo,Corrientes,Recogida en Tienda,Entregado,Sony,864106,1,5,13,10535993,6,7053
 23/12/2024,Auriculares,Transferencia Bancaria,Nuevo,Chaco,Recogida en Tienda,Cancelado,Huawei,645961,4,12,17,39027218,6,9738
 23/12/2024,Camara Digital,Mercado Pago,Nuevo,CABA,Recogida en Tienda,Cancelado,Samsung,529354,1,7,15,7405064,2,5376
-23/12/2024,Reloj Inteligente,Tarjeta de Credito,Recurrente,Tucuman,Recogida en Tienda,Pendiente,Xiaomi,338120,3,3,3,2774893,4,5966
+23/12/2024,Reloj Inteligente,,Recurrente,Tucuman,Recogida en Tienda,Pendiente,Xiaomi,338120,3,3,3,2774893,4,5966
 23/12/2024,Camara Digital,Pago Contra Entrega,Nuevo,Salta,Envio Express,Pendiente,Xiaomi,466938,4,15,8,14442686,2,2276
 23/12/2024,Tablet,Mercado Pago,Recurrente,Mendoza,Recogida en Tienda,Entregado,Xiaomi,352434,4,6,3,3775414,4,1236
 23/12/2024,Auriculares,Tarjeta de Credito,Recurrente,Salta,Recogida en Tienda,Pendiente,Sony,899937,3,6,8,19452624,2,6005
@@ -1849,7 +1849,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 23/12/2024,Laptop,Mercado Pago,Recurrente,Tucuman,Recogida en Tienda,Entregado,Motorola,476066,4,14,20,35585075,4,7991
 23/12/2024,Camara Digital,Tarjeta de Credito,Recurrente,CABA,Envio Estandar,Entregado,Sony,833737,4,7,2,6575219,2,3145
 23/12/2024,Camara Digital,Pago Contra Entrega,Recurrente,Formosa,Envio Estandar,Cancelado,Lenovo,765258,3,7,8,16677867,3,1901
-24/12/2024,Auriculares,Mercado Pago,Recurrente,Mendoza,Recogida en Tienda,Entregado,Sony,775082,2,6,1,1418166,2,3204
+24/12/2024,Auriculares,,Recurrente,Mendoza,Recogida en Tienda,Entregado,Sony,775082,2,6,1,1418166,2,3204
 24/12/2024,Auriculares,Tarjeta de Credito,Nuevo,Neuquen,Envio Express,Pendiente,Lenovo,432890,1,7,15,5791203,1,8925
 24/12/2024,Auriculares,Mercado Pago,Recurrente,Santa Fe,Envio Express,Entregado,Samsung,235102,1,6,15,3438938,4,3910
 24/12/2024,Accesorios,Pago Contra Entrega,Recurrente,Buenos Aires,Recogida en Tienda,Enviado,Xiaomi,984053,3,1,6,16802905,1,3500
@@ -1877,7 +1877,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 24/12/2024,Accesorios,Mercado Pago,Nuevo,Buenos Aires,Recogida en Tienda,Cancelado,Sony,732414,1,1,16,11160546,5,1218
 24/12/2024,Auriculares,Transferencia Bancaria,Nuevo,Tucuman,Envio Express,Cancelado,Xiaomi,532865,4,10,18,34298987,1,9496
 24/12/2024,Reloj Inteligente,PayPal,Nuevo,Neuquen,Envio Express,Entregado,LG,371322,3,12,17,18086413,2,3449
-24/12/2024,Smartphone,Tarjeta de Credito,Recurrente,CABA,Recogida en Tienda,Cancelado,Apple,906521,2,11,10,16536789,3,7263
+24/12/2024,Smartphone,,Recurrente,CABA,Recogida en Tienda,Cancelado,Apple,906521,2,11,10,16536789,3,7263
 24/12/2024,Auriculares,PayPal,Nuevo,Buenos Aires,Envio Estandar,Enviado,LG,649826,2,8,3,3348750,4,7572
 24/12/2024,Auriculares,Transferencia Bancaria,Nuevo,Buenos Aires,Recogida en Tienda,Cancelado,LG,249735,4,13,4,3894029,4,9234
 24/12/2024,Accesorios,Pago Contra Entrega,Nuevo,Tucuman,Envio Estandar,Enviado,Xiaomi,432789,1,6,2,777449,6,7517
@@ -1901,7 +1901,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 24/12/2024,Smartphone,,Recurrente,San Luis,Recogida en Tienda,Pendiente,Motorola,542739,2,2,11,11741342,5,7334
 24/12/2024,Accesorios,PayPal,Nuevo,Santa Cruz,Envio Express,Pendiente,Apple,703300,1,7,15,10398550,3,1841
 24/12/2024,Smartphone,Mercado Pago,Nuevo,CABA,Envio Estandar,Cancelado,Xiaomi,125574,2,5,11,2593933,5,9987
-24/12/2024,Smartphone,PayPal,Recurrente,Formosa,Recogida en Tienda,Pendiente,Apple,455432,1,5,3,1277564,5,3729
+24/12/2024,Smartphone,,Recurrente,Formosa,Recogida en Tienda,Pendiente,Apple,455432,1,5,3,1277564,5,3729
 24/12/2024,Accesorios,Transferencia Bancaria,Recurrente,Cordoba,Recogida en Tienda,Pendiente,Xiaomi,139167,2,10,13,3233943,4,8637
 24/12/2024,Tablet,Pago Contra Entrega,Nuevo,San Juan,Envio Estandar,Entregado,Sony,364962,4,5,13,16914053,6,4324
 24/12/2024,Camara Digital,Transferencia Bancaria,Recurrente,Corrientes,Envio Estandar,Entregado,Samsung,844113,1,4,5,3615107,3,6792
@@ -1935,7 +1935,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 25/12/2024,Smartphone,Tarjeta de Credito,Recurrente,Cordoba,Envio Estandar,Enviado,Huawei,887923,3,6,18,46905752,5,2541
 25/12/2024,Accesorios,Pago Contra Entrega,Recurrente,Mendoza,Recogida en Tienda,Entregado,Huawei,765095,1,7,1,675637,5,2732
 25/12/2024,Reloj Inteligente,PayPal,Nuevo,CABA,Recogida en Tienda,Pendiente,Sony,621845,1,5,8,4593619,6,9118
-25/12/2024,Tablet,Mercado Pago,Nuevo,Neuquen,Envio Estandar,Cancelado,Sony,329064,2,4,11,6413395,3,4374
+25/12/2024,Tablet,,Nuevo,Neuquen,Envio Estandar,Cancelado,Sony,329064,2,4,11,6413395,3,4374
 25/12/2024,Camara Digital,PayPal,Nuevo,Mendoza,Envio Express,Pendiente,Apple,735940,4,1,12,30451455,3,8245
 25/12/2024,Reloj Inteligente,Transferencia Bancaria,Nuevo,Tucuman,Recogida en Tienda,Enviado,Xiaomi,128645,2,15,6,1381260,5,9149
 25/12/2024,Reloj Inteligente,PayPal,Recurrente,Tucuman,Envio Express,Cancelado,Samsung,554616,2,5,14,15280146,3,1312
@@ -1962,7 +1962,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 25/12/2024,Laptop,Tarjeta de Credito,Nuevo,Rio Negro,Recogida en Tienda,Pendiente,Motorola,193102,1,5,19,3156615,2,4734
 25/12/2024,Smartphone,Mercado Pago,Recurrente,Buenos Aires,Envio Estandar,Pendiente,Samsung,550185,3,12,20,28206069,2,8957
 25/12/2024,Reloj Inteligente,Pago Contra Entrega,Nuevo,Mendoza,Envio Express,Cancelado,Apple,355961,1,3,1,321788,5,7362
-25/12/2024,Reloj Inteligente,Mercado Pago,Recurrente,Cordoba,Envio Estandar,Cancelado,Xiaomi,721017,4,7,10,26948806,6,9948
+25/12/2024,Reloj Inteligente,,Recurrente,Cordoba,Envio Estandar,Cancelado,Xiaomi,721017,4,7,10,26948806,6,9948
 25/12/2024,Tablet,Transferencia Bancaria,Recurrente,Neuquen,Envio Estandar,Enviado,Motorola,177513,3,15,17,8307735,4,2283
 25/12/2024,Tablet,Mercado Pago,Nuevo,Misiones,Recogida en Tienda,Cancelado,LG,296781,2,2,9,4885588,3,3472
 25/12/2024,Accesorios,PayPal,Nuevo,Misiones,Envio Estandar,Pendiente,Motorola,375185,1,11,15,5369373,3,3139
@@ -1985,7 +1985,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 25/12/2024,Accesorios,Tarjeta de Credito,Recurrente,San Juan,Envio Express,Cancelado,Samsung,144808,3,12,19,7205565,2,8163
 25/12/2024,Camara Digital,Tarjeta de Credito,Nuevo,Santa Cruz,Envio Express,Entregado,Xiaomi,134510,4,6,8,4241603,2,1615
 25/12/2024,Accesorios,Transferencia Bancaria,Recurrente,Mendoza,Envio Estandar,Entregado,Huawei,425970,1,14,3,1253381,6,1228
-25/12/2024,Camara Digital,Tarjeta de Credito,Recurrente,Corrientes,Envio Estandar,Enviado,Sony,966094,4,1,5,16744256,5,5386
+25/12/2024,Camara Digital,,Recurrente,Corrientes,Envio Estandar,Enviado,Sony,966094,4,1,5,16744256,5,5386
 25/12/2024,Auriculares,PayPal,Nuevo,San Juan,Recogida en Tienda,Entregado,Samsung,536197,1,8,9,4163563,6,9080
 25/12/2024,Auriculares,Transferencia Bancaria,Nuevo,Santa Fe,Envio Estandar,Pendiente,Motorola,469415,3,5,8,10020818,3,3109
 25/12/2024,Accesorios,PayPal,Nuevo,CABA,Envio Estandar,Pendiente,LG,475962,4,7,11,19994364,2,5132
@@ -2281,7 +2281,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 29/12/2024,Laptop,Mercado Pago,Nuevo,CABA,Envio Estandar,Cancelado,Sony,146867,3,8,15,5777651,5,3022
 29/12/2024,Accesorios,Mercado Pago,Nuevo,Cordoba,Recogida en Tienda,Pendiente,LG,529812,2,8,15,14546858,3,2488
 29/12/2024,Accesorios,Tarjeta de Credito,Recurrente,CABA,Envio Express,Cancelado,Xiaomi,599452,1,10,2,1109316,5,8993
-29/12/2024,Laptop,Transferencia Bancaria,Nuevo,CABA,Recogida en Tienda,Enviado,LG,982538,3,7,17,45166284,1,4815
+29/12/2024,Laptop,,Nuevo,CABA,Recogida en Tienda,Enviado,LG,982538,3,7,17,45166284,1,4815
 29/12/2024,Smartphone,Tarjeta de Credito,Recurrente,Santa Fe,Envio Estandar,Entregado,Lenovo,831586,4,7,18,54345321,4,6972
 29/12/2024,Tablet,Pago Contra Entrega,Nuevo,CABA,Envio Express,Entregado,Huawei,641522,3,2,7,13162671,2,3302
 29/12/2024,Laptop,Transferencia Bancaria,Nuevo,Tucuman,Recogida en Tienda,Cancelado,LG,986269,4,7,13,47538556,4,4322
@@ -2309,7 +2309,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 29/12/2024,Reloj Inteligente,Mercado Pago,Nuevo,Tucuman,Envio Estandar,Entregado,Samsung,305828,2,14,15,8791830,6,1627
 29/12/2024,Accesorios,Mercado Pago,Recurrente,Formosa,Envio Estandar,Cancelado,Apple,718835,3,15,2,3954967,6,2429
 29/12/2024,Camara Digital,PayPal,Recurrente,Jujuy,Recogida en Tienda,Enviado,Huawei,948135,1,2,8,7431507,2,3916
-29/12/2024,Accesorios,Pago Contra Entrega,Recurrente,Formosa,Envio Estandar,Pendiente,Xiaomi,520640,3,11,5,6877138,3,2767
+29/12/2024,Accesorios,,Recurrente,Formosa,Envio Estandar,Pendiente,Xiaomi,520640,3,11,5,6877138,3,2767
 29/12/2024,Camara Digital,Pago Contra Entrega,Recurrente,Chaco,Envio Estandar,Enviado,Samsung,981601,3,6,13,34445726,1,4858
 29/12/2024,Camara Digital,Pago Contra Entrega,Recurrente,San Luis,Recogida en Tienda,Enviado,Apple,716489,1,1,14,8912675,2,2298
 29/12/2024,Laptop,Mercado Pago,Recurrente,Tierra del Fuego,Recogida en Tienda,Cancelado,Xiaomi,425669,1,12,14,5476038,5,1760
@@ -2331,7 +2331,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 30/12/2024,Laptop,Mercado Pago,Recurrente,Buenos Aires,Envio Estandar,Entregado,Apple,753990,1,13,4,2971905,4,2539
 30/12/2024,Laptop,Pago Contra Entrega,Recurrente,Mendoza,Recogida en Tienda,Pendiente,Sony,468968,1,9,15,6706998,4,7730
 30/12/2024,Smartphone,Mercado Pago,Recurrente,Neuquen,Envio Estandar,Enviado,Huawei,292544,1,12,16,4050649,4,2833
-30/12/2024,Camara Digital,Pago Contra Entrega,Nuevo,Buenos Aires,Recogida en Tienda,Enviado,Xiaomi,304143,3,4,8,7107035,3,7732
+30/12/2024,Camara Digital,,Nuevo,Buenos Aires,Recogida en Tienda,Enviado,Xiaomi,304143,3,4,8,7107035,3,7732
 30/12/2024,Accesorios,Mercado Pago,Recurrente,Cordoba,Envio Express,Cancelado,Apple,963025,2,5,18,31940976,3,1656
 30/12/2024,Smartphone,Pago Contra Entrega,Nuevo,CABA,Envio Express,Cancelado,Lenovo,820206,1,1,2,1408602,4,9236
 30/12/2024,Reloj Inteligente,Mercado Pago,Nuevo,Neuquen,Recogida en Tienda,Cancelado,LG,346874,3,5,11,10679162,5,8368
@@ -2348,7 +2348,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 30/12/2024,Laptop,PayPal,Recurrente,Buenos Aires,Recogida en Tienda,Entregado,Samsung,742821,1,9,15,9578525,6,9609
 30/12/2024,Auriculares,Tarjeta de Credito,Recurrente,Buenos Aires,Envio Express,Enviado,Apple,902295,2,6,16,27468500,2,4070
 30/12/2024,Tablet,Pago Contra Entrega,Recurrente,Neuquen,Envio Express,Cancelado,LG,201808,2,1,4,1502685,2,1727
-30/12/2024,Smartphone,Pago Contra Entrega,Nuevo,Neuquen,Envio Express,Enviado,Apple,314377,1,3,16,4458753,6,4821
+30/12/2024,Smartphone,,Nuevo,Neuquen,Envio Express,Enviado,Apple,314377,1,3,16,4458753,6,4821
 30/12/2024,Accesorios,Tarjeta de Credito,Recurrente,Tucuman,Envio Estandar,Cancelado,Lenovo,292476,2,10,15,8158369,2,8743
 30/12/2024,Accesorios,Tarjeta de Credito,Recurrente,Mendoza,Envio Estandar,Pendiente,Sony,727078,4,13,7,19906531,2,9949
 30/12/2024,Tablet,Pago Contra Entrega,Nuevo,Neuquen,Envio Express,Cancelado,Samsung,913677,2,13,17,29787835,3,9019
@@ -2362,7 +2362,7 @@ Fecha,Producto,Metodo de pago,Tipo de Cliente,Region,Metodo de Envio,Estado del 
 30/12/2024,Reloj Inteligente,Transferencia Bancaria,Recurrente,Buenos Aires,Recogida en Tienda,Pendiente,Sony,521389,2,14,16,16237086,2,6585
 30/12/2024,Auriculares,Pago Contra Entrega,Recurrente,Buenos Aires,Recogida en Tienda,Enviado,Lenovo,707218,2,4,5,6692085,6,1212
 30/12/2024,Tablet,Mercado Pago,Nuevo,Rio Negro,Recogida en Tienda,Enviado,LG,772457,4,7,4,10723307,5,3669
-30/12/2024,Smartphone,Transferencia Bancaria,Recurrente,Jujuy,Recogida en Tienda,Enviado,Sony,506210,2,9,17,16134449,6,5422
+30/12/2024,Smartphone,,Recurrente,Jujuy,Recogida en Tienda,Enviado,Sony,506210,2,9,17,16134449,6,5422
 30/12/2024,Smartphone,Tarjeta de Credito,Nuevo,Tucuman,Envio Express,Entregado,Lenovo,238564,1,1,19,4176399,1,4701
 30/12/2024,Accesorios,Mercado Pago,Recurrente,Jujuy,Envio Express,Pendiente,Apple,754991,3,11,5,9952130,3,7482
 30/12/2024,Tablet,Mercado Pago,Nuevo,Mendoza,Recogida en Tienda,Enviado,Huawei,783949,4,10,14,38028138,5,2920
